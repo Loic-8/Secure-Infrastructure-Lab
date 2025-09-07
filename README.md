@@ -16,7 +16,7 @@ Ce projet documente la mise en place d'un environnement de serveurs virtualisés
 ...
 -   **Mesures de durcissement appliquées :**
     -   Service SSH sécurisé, configuration de SELinux et `firewalld`.
-    -   *Pour plus de détails, voir le [rapport complet dans le dépôt Linux-Hardening](lien-vers-votre-dépôt-linux-hardening).*
+    -   *Pour plus de détails, voir le [rapport complet dans le dépôt Linux-Hardening] (https://github.com/Loic-8/Linux-Hardening)).*
 
 ### 2. Contrôleur de Domaine (`Win-DC-01`)
 
